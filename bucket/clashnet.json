@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.2.6/Clash.NET.1.2.6.x64.7z",
-            "hash": "9b0ed20aa56e46f5d58ea20cf593321ae480d29d423e92110b9689dd6f0a1a51"
+            "hash": "224D2122288DB405AEF19226044CF7AFD4E4CB229928B698AE775550A52D7682"
         }
     },
     "extract_dir": "Clash .NET 1.2.6",
